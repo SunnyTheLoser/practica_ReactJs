@@ -1,2 +1,3 @@
-# practica_ReactJs
-Practica de desarrollo en React Js
+React + Vite + Ant Design
+
+Practica de Sunny
