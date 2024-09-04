@@ -3,13 +3,14 @@
 import Prueba from "./Prueba"
 import Calendario from "./Calendario"
 import Valoracion from "./Valoracion"
+import Usuario from "./Usuario"
 
 // Funciones Principales
 
 function App() {
   return (
     <>
-      <h1>Sunny</h1>
+      <Usuario nombreUsuario={"SunnyTheLoser"}/>
       <Prueba />
       <Calendario />
       <Valoracion />
